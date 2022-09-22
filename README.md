@@ -92,7 +92,6 @@ NOTE: Any combination of poor quality can cause a problem with the refreshing of
  - [Arduino](https://www.arduino.cc/)
  - [sandeepmistry](https://github.com/sandeepmistry/arduino-OBD2)
  - [Adafruit](https://www.adafruit.com/)
- - [Adafruit](https://marlinfw.org/)
 
 ## Screenshots
 
